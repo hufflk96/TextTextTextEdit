@@ -15,7 +15,7 @@
 Clone the repository:
 
 ```sh
-
+https://github.com/hufflk96/TextTextTextEdit.git
 ```
 
 Install the required dependencies:
